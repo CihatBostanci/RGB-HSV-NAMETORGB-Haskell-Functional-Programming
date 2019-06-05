@@ -1,4 +1,4 @@
-# RGB-HSV-NAMETORGB-Haskell-Functional-Programming
+# RGB-HSV-NAMEToRGB-Haskell-Functional-Programming
 Functional Programming as working with RGB-HSV-NameToRGB-RGBToHSV etc. functions with recursive manner
 
 As we need to import Haskell module to compile Haskell codes.
